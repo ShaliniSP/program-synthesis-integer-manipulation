@@ -1,0 +1,13 @@
+﻿using semantics ProseTutorial.Semantics;
+using learners ProseTutorial.WitnessFunctions;
+using ProseTutorial;
+
+language Substring;
+
+@complete feature double Score = ProseTutorial.RankingScore;
+
+@input string v;
+
+@start int program := Eval(v, ops);
+
+char[] ops; 

@@ -1,0 +1,110 @@
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working1) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all ops) (copy)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/dell/Documents/Semester 7/Research Credits/PROSE/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (working all digits+ops)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (trial with list)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/bin/Debug/netcoreapp2.0/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/prose-20191107T015135Z-001/prose/prose-tutorial (list with multiple learn)/ProseTutorial/obj/Debug/netcoreapp2.0/ProseTutorial.pdb
